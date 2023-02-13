@@ -1,0 +1,153 @@
+.container{
+   width:90%;
+   margin:0 auto;
+   padding-top:350px;
+   }
+   h3{
+   background-color:white;
+   border:1px solid black;
+   width:85px;
+   text-align:center;
+   margin:auto;
+   transition:linear;
+   }
+   h3:hover{
+	   color:white;
+	   background-color:black;
+	   margin:auto;
+	   transition:all linear 2s;
+   }
+   .page{
+	   background-color:orange;
+	   border:1px solid white;
+	   width:350px;
+	   margin:auto;
+	   text-align:center;
+	   color:white;
+	   margin-top:40px;
+	   padding:20px 50px;
+   }
+   .para{
+	   border:1px solid white;
+	   display:inline-block;
+	   padding:10px 30px;
+	   background-color:white;
+	   margin:auto;
+	   text-align:center;
+	   color:orange;
+	   transition:all linear 2s;
+	  
+   }
+   .para:hover{
+	   background-color:orange;
+	   color:white;
+	   
+   }
+   .container-box{
+   width:90%;
+   margin:0 auto;
+   padding-top:350px;
+   }
+   h3{
+   background-color:white;
+   border:1px solid black;
+   width:85px;
+   text-align:center;
+   margin:auto;
+  
+   }
+   .link-hed:hover{
+	   color:white;
+	   background-color:black;
+	   margin:auto;
+	   width:200px;
+	   
+   }
+   .page-2{
+	   background-color:orange;
+	   border:1px solid white;
+	   width:350px;
+	   margin:auto;
+	   text-align:center;
+	   color:white;
+	   margin-top:40px;
+	   padding:20px 50px;
+   }
+   .para-2{
+	   border:1px solid white;
+	   display:inline-block;
+	   padding:10px 30px;
+	   background-color:white;
+	   text-align:center;
+	   color:orange;
+	   transition:all linear 2s;
+   }
+   .page-2:hover{
+	   background-color:orange;
+	   color:white;
+	   width:600px;
+   }
+    .para-2:hover{
+	   background-color:orange;
+	   color:white;
+	   width:300px;
+	   
+   }
+    .container-box{
+   width:90%;
+   margin:0 auto;
+   padding-top:350px;
+   }
+   h3{
+   background-color:white;
+   border:1px solid black;
+   width:85px;
+   text-align:center;
+   margin:auto;
+   transition:width 2s 2s;
+   }
+   .link-hed-1{
+	    color:white;
+	   background-color:black;
+	   transition:width 2s 2s;
+   }
+   .link-hed-1:hover{
+	   color:white;
+	   background-color:black;
+	   margin:auto;
+	   width:200px;
+	   
+   }
+   .page-3{
+	   background-color:orange;
+	   border:1px solid white;
+	   width:350px;
+	   margin:auto;
+	   text-align:center;
+	   color:white;
+	   margin-top:40px;
+	   padding:20px 50px;
+	   transition:width 2s 2s;
+   }
+   .para-3{
+	   border:1px solid white;
+	   display:inline-block;
+	   padding:10px 30px;
+	   background-color:white;
+	   text-align:center;
+	   color:orange;
+	   transition:linear;
+	   transition:width 2s 2s;
+   }
+   .page-3:hover{
+	   background-color:orange;
+	   color:white;
+	   width:600px;
+	  
+   }
+    .para-3:hover{
+	   background-color:orange;
+	   color:white;
+	   width:300px;
+	   
+   }
